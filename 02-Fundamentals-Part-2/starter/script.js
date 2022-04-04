@@ -144,10 +144,11 @@ else { console.log('Esas no son las opciones validas'); }
 roy.location = 'MEXICO'; // los agrega en orden alfabetico, dot notation
 roy['email'] = 'roy.terrazas@gmail.com'; //bracket
 console.log(roy);
-
 //Challange
 // escribir roy tiene 3 amigos y su mejor amigo es brenda
 
 console.log(roy.firstName + ' tiene: ' + roy.amigos.length + ' amigos y su mejor amigo es: ' + roy.amigos[0]);
+
+//Mas datos amigos
 
 
