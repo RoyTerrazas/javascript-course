@@ -151,5 +151,3 @@ console.log(roy);
 console.log(roy.firstName + ' tiene: ' + roy.amigos.length + ' amigos y su mejor amigo es: ' + roy.amigos[0]);
 
 
-
-// voy a hacer prueba para el commit
